@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
+import 'theme.dart';
 import 'views/home.dart';
-import 'new.dart';  // Assuming new.dart contains CustomTheme.lightTheme and CustomTheme.darkTheme
 
 void main() {
   runApp(const MyApp());
